@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Temporary application files
+temp_apks/
+temp_output/
